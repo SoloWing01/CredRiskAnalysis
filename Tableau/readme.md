@@ -90,18 +90,6 @@ The dashboard is built using a Credit Risk dataset containing:
 
 ---
 
-## 📁 Repository Structure
-
-```
-├── Dashboard 1(1).png
-├── Credit_Risk_Dashboard.twb
-├── Credit_Risk_Dashboard.twbx
-├── Dataset.csv
-└── README.md
-```
-
----
-
 ## 📌 Future Improvements
 
 - Add interactive filters for age, income, and occupation.
