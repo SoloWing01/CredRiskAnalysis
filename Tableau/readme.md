@@ -6,10 +6,6 @@ A Tableau dashboard designed to analyze customer credit risk using key financial
 
 ## 📷 Dashboard Preview
 
-![Credit Risk Dashboard](Dashboard 1.png)
-
-Or 
-
 Visit - https://public.tableau.com/views/CreditRiskDashboard_17852523630110/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 ---
 
