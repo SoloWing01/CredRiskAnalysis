@@ -2,6 +2,8 @@
 
 A machine learning project that predicts **loan default probability** and generates **FICO score rating buckets** using dynamic optimization techniques.
 
+Live Link : https://public.tableau.com/views/CreditRiskDashboard_17852523630110/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 This project consists of two independent Jupyter notebooks:
 
 1. **CreditRiskAnalysis.ipynb** – Predicts whether a customer is likely to default on a loan using Logistic Regression.
